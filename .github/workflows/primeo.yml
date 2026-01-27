@@ -1,0 +1,34 @@
+name: Primeo NetzDynamisch Archive
+
+on:
+  schedule:
+    - cron: '0 19 * * *'  # Daily at 7PM UTC (8PM CET for Switzerland)
+  workflow_dispatch:     # Manual trigger button in Actions tab
+
+jobs:
+  archive-data:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    - name: Setup Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '18'
+        cache: 'npm'
+
+    - name: Install dependencies
+      run: npm install
+
+    - name: Run Primeo Tariff Archiver
+      run: node src/primeo.js
+
+    - name: Notify on failure (optional)
+      if: failure()
+      uses: actions/github-script@v7
+      with:
+        script: |
+          console.log('Primeo tariff archiver failed - check logs');
