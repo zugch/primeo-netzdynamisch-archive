@@ -5,6 +5,9 @@ on:
     - cron: '0 19 * * *'  # Daily at 7PM UTC (8PM CET for Switzerland)
   workflow_dispatch:     # Manual trigger button in Actions tab
 
+permissions:
+  contents: write
+
 jobs:
   archive-data:
     runs-on: ubuntu-latest
