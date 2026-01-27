@@ -1,0 +1,10 @@
+{
+  "name": "primeo-netzdynamisch-archive",
+  "version": "1.0.0",
+  "main": "src/primeo.js",
+  "scripts": { "start": "node src/primeo.js" },
+  "dependencies": {
+    "axios": "^1.6.0",
+    "dotenv": "^16.3.1"
+  }
+}
