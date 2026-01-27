@@ -26,6 +26,20 @@ jobs:
     - name: Run Primeo Tariff Archiver
       run: node src/primeo.js
 
+    - name: Commit and push data
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      run: |
+          if git status --porcelain | grep "^ M data\|^?? data"; then
+            git config user.name "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git add data
+            git commit -m "Update data from API"
+            git push
+          else
+            echo "No changes in data/"
+          fi
+
     - name: Notify on failure (optional)
       if: failure()
       uses: actions/github-script@v7
