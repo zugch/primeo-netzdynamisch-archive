@@ -26,27 +26,29 @@ jobs:
     - name: Install dependencies
       run: npm install
 
+    - name: Create data branch name
+      id: branch
+      run: |
+        SUFFIX=$(date +'%Y%m%d-%H%M%S')-$RANDOM
+        echo "name=data-updates-$SUFFIX" >> "$GITHUB_OUTPUT"
+
+    - name: Create branch from main
+      run: |
+        git checkout main
+        git pull origin main
+        git checkout -b "${{ steps.branch.outputs.name }}"
+  
     - name: Run Primeo Tariff Archiver
       run: node src/primeo.js
 
-    - name: Commit and push data branch
+    - name: Commit and push data
       run: |
-        # create or switch to data-updates branch
-        git fetch origin
-        if git show-ref --verify --quiet refs/remotes/origin/data-updates; then
-          git checkout data-updates
-          git merge --no-edit origin/main || true
-        else
-          git checkout -b data-updates origin/main
-        fi
-
-        # check if data/ has changes
         if git status --porcelain | grep "^ M data\|^?? data"; then
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add data
           git commit -m "Update data from API"
-          git push origin data-updates
+          git push origin "${{ steps.branch.outputs.name }}"
         else
           echo "No changes in data/"
         fi
