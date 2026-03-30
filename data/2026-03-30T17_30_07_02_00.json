@@ -1,0 +1,2674 @@
+{
+  "publication_timestamp": "2026-03-30T17:30:07+02:00",
+  "tariff_name": "NetzDynamisch",
+  "prices": [
+    {
+      "start_timestamp": "2026-03-31T01:00:00+02:00",
+      "end_timestamp": "2026-03-31T01:15:00+02:00",
+      "grid": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.0603
+        }
+      ],
+      "grid_usage": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.03
+        }
+      ],
+      "electricity": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.13
+        }
+      ],
+      "integrated": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.1903
+        }
+      ],
+      "feed_in": null
+    },
+    {
+      "start_timestamp": "2026-03-31T01:15:00+02:00",
+      "end_timestamp": "2026-03-31T01:30:00+02:00",
+      "grid": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.0603
+        }
+      ],
+      "grid_usage": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.03
+        }
+      ],
+      "electricity": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.13
+        }
+      ],
+      "integrated": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.1903
+        }
+      ],
+      "feed_in": null
+    },
+    {
+      "start_timestamp": "2026-03-31T01:30:00+02:00",
+      "end_timestamp": "2026-03-31T01:45:00+02:00",
+      "grid": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.0603
+        }
+      ],
+      "grid_usage": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.03
+        }
+      ],
+      "electricity": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.13
+        }
+      ],
+      "integrated": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.1903
+        }
+      ],
+      "feed_in": null
+    },
+    {
+      "start_timestamp": "2026-03-31T01:45:00+02:00",
+      "end_timestamp": "2026-03-31T02:00:00+02:00",
+      "grid": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.0603
+        }
+      ],
+      "grid_usage": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.03
+        }
+      ],
+      "electricity": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.13
+        }
+      ],
+      "integrated": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.1903
+        }
+      ],
+      "feed_in": null
+    },
+    {
+      "start_timestamp": "2026-03-31T02:00:00+02:00",
+      "end_timestamp": "2026-03-31T02:15:00+02:00",
+      "grid": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.0703
+        }
+      ],
+      "grid_usage": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.04
+        }
+      ],
+      "electricity": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.13
+        }
+      ],
+      "integrated": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.2003
+        }
+      ],
+      "feed_in": null
+    },
+    {
+      "start_timestamp": "2026-03-31T02:15:00+02:00",
+      "end_timestamp": "2026-03-31T02:30:00+02:00",
+      "grid": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.0703
+        }
+      ],
+      "grid_usage": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.04
+        }
+      ],
+      "electricity": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.13
+        }
+      ],
+      "integrated": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.2003
+        }
+      ],
+      "feed_in": null
+    },
+    {
+      "start_timestamp": "2026-03-31T02:30:00+02:00",
+      "end_timestamp": "2026-03-31T02:45:00+02:00",
+      "grid": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.0703
+        }
+      ],
+      "grid_usage": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.04
+        }
+      ],
+      "electricity": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.13
+        }
+      ],
+      "integrated": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.2003
+        }
+      ],
+      "feed_in": null
+    },
+    {
+      "start_timestamp": "2026-03-31T02:45:00+02:00",
+      "end_timestamp": "2026-03-31T03:00:00+02:00",
+      "grid": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.0703
+        }
+      ],
+      "grid_usage": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.04
+        }
+      ],
+      "electricity": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.13
+        }
+      ],
+      "integrated": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.2003
+        }
+      ],
+      "feed_in": null
+    },
+    {
+      "start_timestamp": "2026-03-31T03:00:00+02:00",
+      "end_timestamp": "2026-03-31T03:15:00+02:00",
+      "grid": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.0303
+        }
+      ],
+      "grid_usage": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0
+        }
+      ],
+      "electricity": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.13
+        }
+      ],
+      "integrated": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.1603
+        }
+      ],
+      "feed_in": null
+    },
+    {
+      "start_timestamp": "2026-03-31T03:15:00+02:00",
+      "end_timestamp": "2026-03-31T03:30:00+02:00",
+      "grid": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.0303
+        }
+      ],
+      "grid_usage": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0
+        }
+      ],
+      "electricity": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.13
+        }
+      ],
+      "integrated": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.1603
+        }
+      ],
+      "feed_in": null
+    },
+    {
+      "start_timestamp": "2026-03-31T03:30:00+02:00",
+      "end_timestamp": "2026-03-31T03:45:00+02:00",
+      "grid": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.0303
+        }
+      ],
+      "grid_usage": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0
+        }
+      ],
+      "electricity": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.13
+        }
+      ],
+      "integrated": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.1603
+        }
+      ],
+      "feed_in": null
+    },
+    {
+      "start_timestamp": "2026-03-31T03:45:00+02:00",
+      "end_timestamp": "2026-03-31T04:00:00+02:00",
+      "grid": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.0303
+        }
+      ],
+      "grid_usage": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0
+        }
+      ],
+      "electricity": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.13
+        }
+      ],
+      "integrated": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.1603
+        }
+      ],
+      "feed_in": null
+    },
+    {
+      "start_timestamp": "2026-03-31T04:00:00+02:00",
+      "end_timestamp": "2026-03-31T04:15:00+02:00",
+      "grid": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.0303
+        }
+      ],
+      "grid_usage": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0
+        }
+      ],
+      "electricity": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.13
+        }
+      ],
+      "integrated": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.1603
+        }
+      ],
+      "feed_in": null
+    },
+    {
+      "start_timestamp": "2026-03-31T04:15:00+02:00",
+      "end_timestamp": "2026-03-31T04:30:00+02:00",
+      "grid": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.0303
+        }
+      ],
+      "grid_usage": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0
+        }
+      ],
+      "electricity": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.13
+        }
+      ],
+      "integrated": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.1603
+        }
+      ],
+      "feed_in": null
+    },
+    {
+      "start_timestamp": "2026-03-31T04:30:00+02:00",
+      "end_timestamp": "2026-03-31T04:45:00+02:00",
+      "grid": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.0303
+        }
+      ],
+      "grid_usage": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0
+        }
+      ],
+      "electricity": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.13
+        }
+      ],
+      "integrated": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.1603
+        }
+      ],
+      "feed_in": null
+    },
+    {
+      "start_timestamp": "2026-03-31T04:45:00+02:00",
+      "end_timestamp": "2026-03-31T05:00:00+02:00",
+      "grid": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.0303
+        }
+      ],
+      "grid_usage": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0
+        }
+      ],
+      "electricity": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.13
+        }
+      ],
+      "integrated": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.1603
+        }
+      ],
+      "feed_in": null
+    },
+    {
+      "start_timestamp": "2026-03-31T05:00:00+02:00",
+      "end_timestamp": "2026-03-31T05:15:00+02:00",
+      "grid": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.0303
+        }
+      ],
+      "grid_usage": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0
+        }
+      ],
+      "electricity": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.13
+        }
+      ],
+      "integrated": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.1603
+        }
+      ],
+      "feed_in": null
+    },
+    {
+      "start_timestamp": "2026-03-31T05:15:00+02:00",
+      "end_timestamp": "2026-03-31T05:30:00+02:00",
+      "grid": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.0303
+        }
+      ],
+      "grid_usage": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0
+        }
+      ],
+      "electricity": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.13
+        }
+      ],
+      "integrated": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.1603
+        }
+      ],
+      "feed_in": null
+    },
+    {
+      "start_timestamp": "2026-03-31T05:30:00+02:00",
+      "end_timestamp": "2026-03-31T05:45:00+02:00",
+      "grid": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.0303
+        }
+      ],
+      "grid_usage": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0
+        }
+      ],
+      "electricity": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.13
+        }
+      ],
+      "integrated": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.1603
+        }
+      ],
+      "feed_in": null
+    },
+    {
+      "start_timestamp": "2026-03-31T05:45:00+02:00",
+      "end_timestamp": "2026-03-31T06:00:00+02:00",
+      "grid": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.0303
+        }
+      ],
+      "grid_usage": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0
+        }
+      ],
+      "electricity": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.13
+        }
+      ],
+      "integrated": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.1603
+        }
+      ],
+      "feed_in": null
+    },
+    {
+      "start_timestamp": "2026-03-31T06:00:00+02:00",
+      "end_timestamp": "2026-03-31T06:15:00+02:00",
+      "grid": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.0903
+        }
+      ],
+      "grid_usage": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.06
+        }
+      ],
+      "electricity": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.144
+        }
+      ],
+      "integrated": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.2343
+        }
+      ],
+      "feed_in": null
+    },
+    {
+      "start_timestamp": "2026-03-31T06:15:00+02:00",
+      "end_timestamp": "2026-03-31T06:30:00+02:00",
+      "grid": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.0903
+        }
+      ],
+      "grid_usage": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.06
+        }
+      ],
+      "electricity": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.144
+        }
+      ],
+      "integrated": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.2343
+        }
+      ],
+      "feed_in": null
+    },
+    {
+      "start_timestamp": "2026-03-31T06:30:00+02:00",
+      "end_timestamp": "2026-03-31T06:45:00+02:00",
+      "grid": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.0903
+        }
+      ],
+      "grid_usage": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.06
+        }
+      ],
+      "electricity": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.144
+        }
+      ],
+      "integrated": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.2343
+        }
+      ],
+      "feed_in": null
+    },
+    {
+      "start_timestamp": "2026-03-31T06:45:00+02:00",
+      "end_timestamp": "2026-03-31T07:00:00+02:00",
+      "grid": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.0903
+        }
+      ],
+      "grid_usage": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.06
+        }
+      ],
+      "electricity": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.144
+        }
+      ],
+      "integrated": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.2343
+        }
+      ],
+      "feed_in": null
+    },
+    {
+      "start_timestamp": "2026-03-31T07:00:00+02:00",
+      "end_timestamp": "2026-03-31T07:15:00+02:00",
+      "grid": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.2003
+        }
+      ],
+      "grid_usage": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.17
+        }
+      ],
+      "electricity": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.144
+        }
+      ],
+      "integrated": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.3443
+        }
+      ],
+      "feed_in": null
+    },
+    {
+      "start_timestamp": "2026-03-31T07:15:00+02:00",
+      "end_timestamp": "2026-03-31T07:30:00+02:00",
+      "grid": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.2003
+        }
+      ],
+      "grid_usage": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.17
+        }
+      ],
+      "electricity": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.144
+        }
+      ],
+      "integrated": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.3443
+        }
+      ],
+      "feed_in": null
+    },
+    {
+      "start_timestamp": "2026-03-31T07:30:00+02:00",
+      "end_timestamp": "2026-03-31T07:45:00+02:00",
+      "grid": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.2003
+        }
+      ],
+      "grid_usage": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.17
+        }
+      ],
+      "electricity": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.144
+        }
+      ],
+      "integrated": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.3443
+        }
+      ],
+      "feed_in": null
+    },
+    {
+      "start_timestamp": "2026-03-31T07:45:00+02:00",
+      "end_timestamp": "2026-03-31T08:00:00+02:00",
+      "grid": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.2003
+        }
+      ],
+      "grid_usage": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.17
+        }
+      ],
+      "electricity": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.144
+        }
+      ],
+      "integrated": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.3443
+        }
+      ],
+      "feed_in": null
+    },
+    {
+      "start_timestamp": "2026-03-31T08:00:00+02:00",
+      "end_timestamp": "2026-03-31T08:15:00+02:00",
+      "grid": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.2303
+        }
+      ],
+      "grid_usage": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.2
+        }
+      ],
+      "electricity": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.144
+        }
+      ],
+      "integrated": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.3743
+        }
+      ],
+      "feed_in": null
+    },
+    {
+      "start_timestamp": "2026-03-31T08:15:00+02:00",
+      "end_timestamp": "2026-03-31T08:30:00+02:00",
+      "grid": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.2303
+        }
+      ],
+      "grid_usage": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.2
+        }
+      ],
+      "electricity": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.144
+        }
+      ],
+      "integrated": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.3743
+        }
+      ],
+      "feed_in": null
+    },
+    {
+      "start_timestamp": "2026-03-31T08:30:00+02:00",
+      "end_timestamp": "2026-03-31T08:45:00+02:00",
+      "grid": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.2303
+        }
+      ],
+      "grid_usage": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.2
+        }
+      ],
+      "electricity": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.144
+        }
+      ],
+      "integrated": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.3743
+        }
+      ],
+      "feed_in": null
+    },
+    {
+      "start_timestamp": "2026-03-31T08:45:00+02:00",
+      "end_timestamp": "2026-03-31T09:00:00+02:00",
+      "grid": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.2303
+        }
+      ],
+      "grid_usage": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.2
+        }
+      ],
+      "electricity": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.144
+        }
+      ],
+      "integrated": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.3743
+        }
+      ],
+      "feed_in": null
+    },
+    {
+      "start_timestamp": "2026-03-31T09:00:00+02:00",
+      "end_timestamp": "2026-03-31T09:15:00+02:00",
+      "grid": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.2403
+        }
+      ],
+      "grid_usage": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.21
+        }
+      ],
+      "electricity": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.144
+        }
+      ],
+      "integrated": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.3843
+        }
+      ],
+      "feed_in": null
+    },
+    {
+      "start_timestamp": "2026-03-31T09:15:00+02:00",
+      "end_timestamp": "2026-03-31T09:30:00+02:00",
+      "grid": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.2403
+        }
+      ],
+      "grid_usage": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.21
+        }
+      ],
+      "electricity": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.144
+        }
+      ],
+      "integrated": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.3843
+        }
+      ],
+      "feed_in": null
+    },
+    {
+      "start_timestamp": "2026-03-31T09:30:00+02:00",
+      "end_timestamp": "2026-03-31T09:45:00+02:00",
+      "grid": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.2403
+        }
+      ],
+      "grid_usage": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.21
+        }
+      ],
+      "electricity": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.144
+        }
+      ],
+      "integrated": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.3843
+        }
+      ],
+      "feed_in": null
+    },
+    {
+      "start_timestamp": "2026-03-31T09:45:00+02:00",
+      "end_timestamp": "2026-03-31T10:00:00+02:00",
+      "grid": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.2403
+        }
+      ],
+      "grid_usage": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.21
+        }
+      ],
+      "electricity": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.144
+        }
+      ],
+      "integrated": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.3843
+        }
+      ],
+      "feed_in": null
+    },
+    {
+      "start_timestamp": "2026-03-31T10:00:00+02:00",
+      "end_timestamp": "2026-03-31T10:15:00+02:00",
+      "grid": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.2503
+        }
+      ],
+      "grid_usage": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.22
+        }
+      ],
+      "electricity": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.144
+        }
+      ],
+      "integrated": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.3943
+        }
+      ],
+      "feed_in": null
+    },
+    {
+      "start_timestamp": "2026-03-31T10:15:00+02:00",
+      "end_timestamp": "2026-03-31T10:30:00+02:00",
+      "grid": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.2503
+        }
+      ],
+      "grid_usage": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.22
+        }
+      ],
+      "electricity": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.144
+        }
+      ],
+      "integrated": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.3943
+        }
+      ],
+      "feed_in": null
+    },
+    {
+      "start_timestamp": "2026-03-31T10:30:00+02:00",
+      "end_timestamp": "2026-03-31T10:45:00+02:00",
+      "grid": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.2503
+        }
+      ],
+      "grid_usage": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.22
+        }
+      ],
+      "electricity": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.144
+        }
+      ],
+      "integrated": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.3943
+        }
+      ],
+      "feed_in": null
+    },
+    {
+      "start_timestamp": "2026-03-31T10:45:00+02:00",
+      "end_timestamp": "2026-03-31T11:00:00+02:00",
+      "grid": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.2503
+        }
+      ],
+      "grid_usage": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.22
+        }
+      ],
+      "electricity": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.144
+        }
+      ],
+      "integrated": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.3943
+        }
+      ],
+      "feed_in": null
+    },
+    {
+      "start_timestamp": "2026-03-31T11:00:00+02:00",
+      "end_timestamp": "2026-03-31T11:15:00+02:00",
+      "grid": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.2503
+        }
+      ],
+      "grid_usage": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.22
+        }
+      ],
+      "electricity": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.144
+        }
+      ],
+      "integrated": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.3943
+        }
+      ],
+      "feed_in": null
+    },
+    {
+      "start_timestamp": "2026-03-31T11:15:00+02:00",
+      "end_timestamp": "2026-03-31T11:30:00+02:00",
+      "grid": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.2503
+        }
+      ],
+      "grid_usage": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.22
+        }
+      ],
+      "electricity": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.144
+        }
+      ],
+      "integrated": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.3943
+        }
+      ],
+      "feed_in": null
+    },
+    {
+      "start_timestamp": "2026-03-31T11:30:00+02:00",
+      "end_timestamp": "2026-03-31T11:45:00+02:00",
+      "grid": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.2503
+        }
+      ],
+      "grid_usage": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.22
+        }
+      ],
+      "electricity": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.144
+        }
+      ],
+      "integrated": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.3943
+        }
+      ],
+      "feed_in": null
+    },
+    {
+      "start_timestamp": "2026-03-31T11:45:00+02:00",
+      "end_timestamp": "2026-03-31T12:00:00+02:00",
+      "grid": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.2503
+        }
+      ],
+      "grid_usage": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.22
+        }
+      ],
+      "electricity": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.144
+        }
+      ],
+      "integrated": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.3943
+        }
+      ],
+      "feed_in": null
+    },
+    {
+      "start_timestamp": "2026-03-31T12:00:00+02:00",
+      "end_timestamp": "2026-03-31T12:15:00+02:00",
+      "grid": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.2503
+        }
+      ],
+      "grid_usage": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.22
+        }
+      ],
+      "electricity": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.144
+        }
+      ],
+      "integrated": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.3943
+        }
+      ],
+      "feed_in": null
+    },
+    {
+      "start_timestamp": "2026-03-31T12:15:00+02:00",
+      "end_timestamp": "2026-03-31T12:30:00+02:00",
+      "grid": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.2503
+        }
+      ],
+      "grid_usage": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.22
+        }
+      ],
+      "electricity": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.144
+        }
+      ],
+      "integrated": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.3943
+        }
+      ],
+      "feed_in": null
+    },
+    {
+      "start_timestamp": "2026-03-31T12:30:00+02:00",
+      "end_timestamp": "2026-03-31T12:45:00+02:00",
+      "grid": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.2503
+        }
+      ],
+      "grid_usage": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.22
+        }
+      ],
+      "electricity": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.144
+        }
+      ],
+      "integrated": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.3943
+        }
+      ],
+      "feed_in": null
+    },
+    {
+      "start_timestamp": "2026-03-31T12:45:00+02:00",
+      "end_timestamp": "2026-03-31T13:00:00+02:00",
+      "grid": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.2503
+        }
+      ],
+      "grid_usage": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.22
+        }
+      ],
+      "electricity": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.144
+        }
+      ],
+      "integrated": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.3943
+        }
+      ],
+      "feed_in": null
+    },
+    {
+      "start_timestamp": "2026-03-31T13:00:00+02:00",
+      "end_timestamp": "2026-03-31T13:15:00+02:00",
+      "grid": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.2303
+        }
+      ],
+      "grid_usage": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.2
+        }
+      ],
+      "electricity": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.144
+        }
+      ],
+      "integrated": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.3743
+        }
+      ],
+      "feed_in": null
+    },
+    {
+      "start_timestamp": "2026-03-31T13:15:00+02:00",
+      "end_timestamp": "2026-03-31T13:30:00+02:00",
+      "grid": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.2303
+        }
+      ],
+      "grid_usage": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.2
+        }
+      ],
+      "electricity": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.144
+        }
+      ],
+      "integrated": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.3743
+        }
+      ],
+      "feed_in": null
+    },
+    {
+      "start_timestamp": "2026-03-31T13:30:00+02:00",
+      "end_timestamp": "2026-03-31T13:45:00+02:00",
+      "grid": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.2303
+        }
+      ],
+      "grid_usage": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.2
+        }
+      ],
+      "electricity": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.144
+        }
+      ],
+      "integrated": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.3743
+        }
+      ],
+      "feed_in": null
+    },
+    {
+      "start_timestamp": "2026-03-31T13:45:00+02:00",
+      "end_timestamp": "2026-03-31T14:00:00+02:00",
+      "grid": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.2303
+        }
+      ],
+      "grid_usage": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.2
+        }
+      ],
+      "electricity": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.144
+        }
+      ],
+      "integrated": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.3743
+        }
+      ],
+      "feed_in": null
+    },
+    {
+      "start_timestamp": "2026-03-31T14:00:00+02:00",
+      "end_timestamp": "2026-03-31T14:15:00+02:00",
+      "grid": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.2003
+        }
+      ],
+      "grid_usage": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.17
+        }
+      ],
+      "electricity": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.144
+        }
+      ],
+      "integrated": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.3443
+        }
+      ],
+      "feed_in": null
+    },
+    {
+      "start_timestamp": "2026-03-31T14:15:00+02:00",
+      "end_timestamp": "2026-03-31T14:30:00+02:00",
+      "grid": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.2003
+        }
+      ],
+      "grid_usage": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.17
+        }
+      ],
+      "electricity": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.144
+        }
+      ],
+      "integrated": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.3443
+        }
+      ],
+      "feed_in": null
+    },
+    {
+      "start_timestamp": "2026-03-31T14:30:00+02:00",
+      "end_timestamp": "2026-03-31T14:45:00+02:00",
+      "grid": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.2003
+        }
+      ],
+      "grid_usage": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.17
+        }
+      ],
+      "electricity": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.144
+        }
+      ],
+      "integrated": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.3443
+        }
+      ],
+      "feed_in": null
+    },
+    {
+      "start_timestamp": "2026-03-31T14:45:00+02:00",
+      "end_timestamp": "2026-03-31T15:00:00+02:00",
+      "grid": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.2003
+        }
+      ],
+      "grid_usage": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.17
+        }
+      ],
+      "electricity": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.144
+        }
+      ],
+      "integrated": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.3443
+        }
+      ],
+      "feed_in": null
+    },
+    {
+      "start_timestamp": "2026-03-31T15:00:00+02:00",
+      "end_timestamp": "2026-03-31T15:15:00+02:00",
+      "grid": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.1703
+        }
+      ],
+      "grid_usage": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.14
+        }
+      ],
+      "electricity": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.144
+        }
+      ],
+      "integrated": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.3143
+        }
+      ],
+      "feed_in": null
+    },
+    {
+      "start_timestamp": "2026-03-31T15:15:00+02:00",
+      "end_timestamp": "2026-03-31T15:30:00+02:00",
+      "grid": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.1703
+        }
+      ],
+      "grid_usage": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.14
+        }
+      ],
+      "electricity": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.144
+        }
+      ],
+      "integrated": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.3143
+        }
+      ],
+      "feed_in": null
+    },
+    {
+      "start_timestamp": "2026-03-31T15:30:00+02:00",
+      "end_timestamp": "2026-03-31T15:45:00+02:00",
+      "grid": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.1703
+        }
+      ],
+      "grid_usage": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.14
+        }
+      ],
+      "electricity": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.144
+        }
+      ],
+      "integrated": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.3143
+        }
+      ],
+      "feed_in": null
+    },
+    {
+      "start_timestamp": "2026-03-31T15:45:00+02:00",
+      "end_timestamp": "2026-03-31T16:00:00+02:00",
+      "grid": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.1703
+        }
+      ],
+      "grid_usage": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.14
+        }
+      ],
+      "electricity": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.144
+        }
+      ],
+      "integrated": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.3143
+        }
+      ],
+      "feed_in": null
+    },
+    {
+      "start_timestamp": "2026-03-31T16:00:00+02:00",
+      "end_timestamp": "2026-03-31T16:15:00+02:00",
+      "grid": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.1603
+        }
+      ],
+      "grid_usage": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.13
+        }
+      ],
+      "electricity": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.144
+        }
+      ],
+      "integrated": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.3043
+        }
+      ],
+      "feed_in": null
+    },
+    {
+      "start_timestamp": "2026-03-31T16:15:00+02:00",
+      "end_timestamp": "2026-03-31T16:30:00+02:00",
+      "grid": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.1603
+        }
+      ],
+      "grid_usage": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.13
+        }
+      ],
+      "electricity": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.144
+        }
+      ],
+      "integrated": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.3043
+        }
+      ],
+      "feed_in": null
+    },
+    {
+      "start_timestamp": "2026-03-31T16:30:00+02:00",
+      "end_timestamp": "2026-03-31T16:45:00+02:00",
+      "grid": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.1603
+        }
+      ],
+      "grid_usage": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.13
+        }
+      ],
+      "electricity": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.144
+        }
+      ],
+      "integrated": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.3043
+        }
+      ],
+      "feed_in": null
+    },
+    {
+      "start_timestamp": "2026-03-31T16:45:00+02:00",
+      "end_timestamp": "2026-03-31T17:00:00+02:00",
+      "grid": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.1603
+        }
+      ],
+      "grid_usage": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.13
+        }
+      ],
+      "electricity": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.144
+        }
+      ],
+      "integrated": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.3043
+        }
+      ],
+      "feed_in": null
+    },
+    {
+      "start_timestamp": "2026-03-31T17:00:00+02:00",
+      "end_timestamp": "2026-03-31T17:15:00+02:00",
+      "grid": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.2003
+        }
+      ],
+      "grid_usage": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.17
+        }
+      ],
+      "electricity": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.144
+        }
+      ],
+      "integrated": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.3443
+        }
+      ],
+      "feed_in": null
+    },
+    {
+      "start_timestamp": "2026-03-31T17:15:00+02:00",
+      "end_timestamp": "2026-03-31T17:30:00+02:00",
+      "grid": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.2003
+        }
+      ],
+      "grid_usage": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.17
+        }
+      ],
+      "electricity": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.144
+        }
+      ],
+      "integrated": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.3443
+        }
+      ],
+      "feed_in": null
+    },
+    {
+      "start_timestamp": "2026-03-31T17:30:00+02:00",
+      "end_timestamp": "2026-03-31T17:45:00+02:00",
+      "grid": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.2003
+        }
+      ],
+      "grid_usage": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.17
+        }
+      ],
+      "electricity": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.144
+        }
+      ],
+      "integrated": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.3443
+        }
+      ],
+      "feed_in": null
+    },
+    {
+      "start_timestamp": "2026-03-31T17:45:00+02:00",
+      "end_timestamp": "2026-03-31T18:00:00+02:00",
+      "grid": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.2003
+        }
+      ],
+      "grid_usage": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.17
+        }
+      ],
+      "electricity": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.144
+        }
+      ],
+      "integrated": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.3443
+        }
+      ],
+      "feed_in": null
+    },
+    {
+      "start_timestamp": "2026-03-31T18:00:00+02:00",
+      "end_timestamp": "2026-03-31T18:15:00+02:00",
+      "grid": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.2503
+        }
+      ],
+      "grid_usage": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.22
+        }
+      ],
+      "electricity": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.144
+        }
+      ],
+      "integrated": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.3943
+        }
+      ],
+      "feed_in": null
+    },
+    {
+      "start_timestamp": "2026-03-31T18:15:00+02:00",
+      "end_timestamp": "2026-03-31T18:30:00+02:00",
+      "grid": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.2503
+        }
+      ],
+      "grid_usage": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.22
+        }
+      ],
+      "electricity": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.144
+        }
+      ],
+      "integrated": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.3943
+        }
+      ],
+      "feed_in": null
+    },
+    {
+      "start_timestamp": "2026-03-31T18:30:00+02:00",
+      "end_timestamp": "2026-03-31T18:45:00+02:00",
+      "grid": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.2503
+        }
+      ],
+      "grid_usage": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.22
+        }
+      ],
+      "electricity": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.144
+        }
+      ],
+      "integrated": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.3943
+        }
+      ],
+      "feed_in": null
+    },
+    {
+      "start_timestamp": "2026-03-31T18:45:00+02:00",
+      "end_timestamp": "2026-03-31T19:00:00+02:00",
+      "grid": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.2503
+        }
+      ],
+      "grid_usage": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.22
+        }
+      ],
+      "electricity": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.144
+        }
+      ],
+      "integrated": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.3943
+        }
+      ],
+      "feed_in": null
+    },
+    {
+      "start_timestamp": "2026-03-31T19:00:00+02:00",
+      "end_timestamp": "2026-03-31T19:15:00+02:00",
+      "grid": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.2503
+        }
+      ],
+      "grid_usage": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.22
+        }
+      ],
+      "electricity": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.144
+        }
+      ],
+      "integrated": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.3943
+        }
+      ],
+      "feed_in": null
+    },
+    {
+      "start_timestamp": "2026-03-31T19:15:00+02:00",
+      "end_timestamp": "2026-03-31T19:30:00+02:00",
+      "grid": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.2503
+        }
+      ],
+      "grid_usage": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.22
+        }
+      ],
+      "electricity": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.144
+        }
+      ],
+      "integrated": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.3943
+        }
+      ],
+      "feed_in": null
+    },
+    {
+      "start_timestamp": "2026-03-31T19:30:00+02:00",
+      "end_timestamp": "2026-03-31T19:45:00+02:00",
+      "grid": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.2503
+        }
+      ],
+      "grid_usage": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.22
+        }
+      ],
+      "electricity": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.144
+        }
+      ],
+      "integrated": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.3943
+        }
+      ],
+      "feed_in": null
+    },
+    {
+      "start_timestamp": "2026-03-31T19:45:00+02:00",
+      "end_timestamp": "2026-03-31T20:00:00+02:00",
+      "grid": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.2503
+        }
+      ],
+      "grid_usage": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.22
+        }
+      ],
+      "electricity": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.144
+        }
+      ],
+      "integrated": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.3943
+        }
+      ],
+      "feed_in": null
+    },
+    {
+      "start_timestamp": "2026-03-31T20:00:00+02:00",
+      "end_timestamp": "2026-03-31T20:15:00+02:00",
+      "grid": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.2303
+        }
+      ],
+      "grid_usage": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.2
+        }
+      ],
+      "electricity": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.144
+        }
+      ],
+      "integrated": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.3743
+        }
+      ],
+      "feed_in": null
+    },
+    {
+      "start_timestamp": "2026-03-31T20:15:00+02:00",
+      "end_timestamp": "2026-03-31T20:30:00+02:00",
+      "grid": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.2303
+        }
+      ],
+      "grid_usage": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.2
+        }
+      ],
+      "electricity": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.144
+        }
+      ],
+      "integrated": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.3743
+        }
+      ],
+      "feed_in": null
+    },
+    {
+      "start_timestamp": "2026-03-31T20:30:00+02:00",
+      "end_timestamp": "2026-03-31T20:45:00+02:00",
+      "grid": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.2303
+        }
+      ],
+      "grid_usage": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.2
+        }
+      ],
+      "electricity": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.144
+        }
+      ],
+      "integrated": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.3743
+        }
+      ],
+      "feed_in": null
+    },
+    {
+      "start_timestamp": "2026-03-31T20:45:00+02:00",
+      "end_timestamp": "2026-03-31T21:00:00+02:00",
+      "grid": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.2303
+        }
+      ],
+      "grid_usage": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.2
+        }
+      ],
+      "electricity": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.144
+        }
+      ],
+      "integrated": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.3743
+        }
+      ],
+      "feed_in": null
+    },
+    {
+      "start_timestamp": "2026-03-31T21:00:00+02:00",
+      "end_timestamp": "2026-03-31T21:15:00+02:00",
+      "grid": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.2203
+        }
+      ],
+      "grid_usage": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.19
+        }
+      ],
+      "electricity": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.13
+        }
+      ],
+      "integrated": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.3503
+        }
+      ],
+      "feed_in": null
+    },
+    {
+      "start_timestamp": "2026-03-31T21:15:00+02:00",
+      "end_timestamp": "2026-03-31T21:30:00+02:00",
+      "grid": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.2203
+        }
+      ],
+      "grid_usage": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.19
+        }
+      ],
+      "electricity": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.13
+        }
+      ],
+      "integrated": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.3503
+        }
+      ],
+      "feed_in": null
+    },
+    {
+      "start_timestamp": "2026-03-31T21:30:00+02:00",
+      "end_timestamp": "2026-03-31T21:45:00+02:00",
+      "grid": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.2203
+        }
+      ],
+      "grid_usage": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.19
+        }
+      ],
+      "electricity": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.13
+        }
+      ],
+      "integrated": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.3503
+        }
+      ],
+      "feed_in": null
+    },
+    {
+      "start_timestamp": "2026-03-31T21:45:00+02:00",
+      "end_timestamp": "2026-03-31T22:00:00+02:00",
+      "grid": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.2203
+        }
+      ],
+      "grid_usage": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.19
+        }
+      ],
+      "electricity": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.13
+        }
+      ],
+      "integrated": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.3503
+        }
+      ],
+      "feed_in": null
+    },
+    {
+      "start_timestamp": "2026-03-31T22:00:00+02:00",
+      "end_timestamp": "2026-03-31T22:15:00+02:00",
+      "grid": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.1603
+        }
+      ],
+      "grid_usage": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.13
+        }
+      ],
+      "electricity": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.13
+        }
+      ],
+      "integrated": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.2903
+        }
+      ],
+      "feed_in": null
+    },
+    {
+      "start_timestamp": "2026-03-31T22:15:00+02:00",
+      "end_timestamp": "2026-03-31T22:30:00+02:00",
+      "grid": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.1603
+        }
+      ],
+      "grid_usage": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.13
+        }
+      ],
+      "electricity": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.13
+        }
+      ],
+      "integrated": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.2903
+        }
+      ],
+      "feed_in": null
+    },
+    {
+      "start_timestamp": "2026-03-31T22:30:00+02:00",
+      "end_timestamp": "2026-03-31T22:45:00+02:00",
+      "grid": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.1603
+        }
+      ],
+      "grid_usage": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.13
+        }
+      ],
+      "electricity": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.13
+        }
+      ],
+      "integrated": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.2903
+        }
+      ],
+      "feed_in": null
+    },
+    {
+      "start_timestamp": "2026-03-31T22:45:00+02:00",
+      "end_timestamp": "2026-03-31T23:00:00+02:00",
+      "grid": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.1603
+        }
+      ],
+      "grid_usage": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.13
+        }
+      ],
+      "electricity": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.13
+        }
+      ],
+      "integrated": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.2903
+        }
+      ],
+      "feed_in": null
+    },
+    {
+      "start_timestamp": "2026-03-31T23:00:00+02:00",
+      "end_timestamp": "2026-03-31T23:15:00+02:00",
+      "grid": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.0603
+        }
+      ],
+      "grid_usage": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.03
+        }
+      ],
+      "electricity": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.13
+        }
+      ],
+      "integrated": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.1903
+        }
+      ],
+      "feed_in": null
+    },
+    {
+      "start_timestamp": "2026-03-31T23:15:00+02:00",
+      "end_timestamp": "2026-03-31T23:30:00+02:00",
+      "grid": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.0603
+        }
+      ],
+      "grid_usage": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.03
+        }
+      ],
+      "electricity": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.13
+        }
+      ],
+      "integrated": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.1903
+        }
+      ],
+      "feed_in": null
+    },
+    {
+      "start_timestamp": "2026-03-31T23:30:00+02:00",
+      "end_timestamp": "2026-03-31T23:45:00+02:00",
+      "grid": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.0603
+        }
+      ],
+      "grid_usage": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.03
+        }
+      ],
+      "electricity": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.13
+        }
+      ],
+      "integrated": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.1903
+        }
+      ],
+      "feed_in": null
+    },
+    {
+      "start_timestamp": "2026-03-31T23:45:00+02:00",
+      "end_timestamp": "2026-04-01T00:00:00+02:00",
+      "grid": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.0603
+        }
+      ],
+      "grid_usage": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.03
+        }
+      ],
+      "electricity": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.13
+        }
+      ],
+      "integrated": [
+        {
+          "unit": "CHF_kWh",
+          "value": 0.1903
+        }
+      ],
+      "feed_in": null
+    }
+  ]
+}
